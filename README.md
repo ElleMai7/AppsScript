@@ -1,2 +1,5 @@
 # AppsScript
-Apps scripts created and used 
+
+Learning AppsScript as a way to automate processes in Google Sheets
+
+
